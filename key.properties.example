@@ -1,0 +1,7 @@
+# Copy this file to key.properties and replace the placeholder values.
+# Keep key.properties and your keystore out of source control.
+storeFile=upload-keystore.jks
+storePassword=CHANGE_ME
+keyAlias=upload
+keyPassword=CHANGE_ME
+
